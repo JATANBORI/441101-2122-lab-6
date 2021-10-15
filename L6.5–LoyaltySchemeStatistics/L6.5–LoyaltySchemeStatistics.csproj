@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>L6._4_CummulativeAnnualDeaths</RootNamespace>
+    <RootNamespace>L6._5_LoyaltySchemeStatistics</RootNamespace>
   </PropertyGroup>
 
 </Project>

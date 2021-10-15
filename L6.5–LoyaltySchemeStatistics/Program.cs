@@ -1,19 +1,17 @@
 ﻿using System;
 using System.IO;
 
-namespace L6._4_ChickenLoyaltyStatistics
+namespace L6._5_LoyaltySchemeStatistics
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Chicken Loyalty Statistics.");
+            Console.WriteLine("Loyalty Scheme Statistics.");
             Console.WriteLine("");
             
-            //Enter your codes here
-            
-
-           
+            //Your codes goes here
+                       
         }
     }
 }
